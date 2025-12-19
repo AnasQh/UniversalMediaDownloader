@@ -87,7 +87,7 @@ dependencies {
     implementation("androidx.work:work-runtime-ktx:2.9.0")
 
     // Media Processing (FFmpeg)
-    implementation("com.arthenica:ffmpeg-kit-full:6.0-2")
+    // implementation("com.arthenica:ffmpeg-kit-full:6.0-2")
 
     // Testing
     testImplementation("junit:junit:4.13.2")
